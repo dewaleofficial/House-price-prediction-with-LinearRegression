@@ -1,5 +1,5 @@
 # House-price-prediction
-A machine learning model for prediction of house prices across the country
+A Linear regression machine learning model for prediction of house prices across the country
 
 Your neighbor is a real estate agent and wants some help predicting housing prices for regions in the USA. It would be great if you could somehow create a model for her that allows her to put in a few features of a house and returns back an estimate of what the house would sell for.
 
