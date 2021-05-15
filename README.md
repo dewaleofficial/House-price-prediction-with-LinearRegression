@@ -1,6 +1,10 @@
 # House-price-prediction
 
-<a id="anchor-name">The  name where you want to jump</a>
+### Place 1
+
+Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
+
+
 
 A Linear regression machine learning model for prediction of house prices across the country
 
@@ -20,15 +24,11 @@ The data contains the following columns:
 'Price': Price that the house sold at
 'Address': Address for the house
 
-
+ok
 
 
 <h2 id="anchor-name">Section name</h2>
 ## Title
-
-### Place 1
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
 
 ### Place 2
 
